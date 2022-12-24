@@ -1,3 +1,6 @@
+header{
+    padding-left: 350px;
+}
 body {
     font-family: sans-serif;
 }
@@ -12,5 +15,6 @@ img{
 }
 a{
    border-radius: 10px;
-   background-color:red
+   background-color:red;
+}
     
